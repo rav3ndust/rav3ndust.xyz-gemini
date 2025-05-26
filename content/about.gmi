@@ -1,0 +1,43 @@
+# about me 
+=> now.gmi now
+=> blog.gmi blog
+=> wiki.gmi wiki
+=> recipes.gmi recipes
+=> bookmarks.gmi bookmarks
+=> contact.gmi contact
+=> about.gmi about
+
+## * * * * * * * * * *
+
+=> index.gmi * * back home * *
+
+## rav3ndust is a person on the internet
+
+You know, I can write quite a bit about things that I'm really into, like software, music, nature, and games, but I think one of the hardest things to write is these "about me" pages! How can one condense their entire personality into a few paragraphs? To that end, I'll keep it short. :-)
+
+In general, I'm a hermit who lives in the woods with my wife, homesteading and doing experiments in sustainable computing, homestead and garden automation, and health/nutrition. Through our small raven's ridge collective, we explore independent living, the free software ethos, decentralized technologies, and federated social networking.
+
+=> wiki/ravens-ridge.gmi raven's ridge
+
+When not working on raven's ridge projects, I'm usually making music, playing retro games, reading stuff, hanging out outdoors, or watching something on youtube. I tend to hang out on the "small web", places like the Gemini protocol, indie sites, small forums, Matrix communities, and the fediverse, and avoid big social platforms like Facebook, Discord, etc.
+
+=> wiki/smallweb.gmi smallweb
+
+I like a good cigar, wine, and days on the lake. I also have a bit of a thing for radios.
+
+In the past, I did programming, sysadmin, and technical writing work before going the off-grid FOSS route.
+
+If you would like to get in touch with me for any reason, see my contact page.
+
+=> contact.gmi contact me
+
+## * * * * * * * * * *
+
+=> gemini://rav3ndust.xyz rav3ndust.xyz
+=> https://neighborli.xyz/@rav3ndust fediverse
+=> https://nosta.me/rav3ndust@rav3ndust.xyz nostr
+=> https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
+=> https://opensource.org/license/mit source code: MIT License
+=> https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
+
