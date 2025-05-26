@@ -1,0 +1,159 @@
+# digital garden 
+=> ../now.gmi now
+=> ../blog.gmi blog
+=> ../wiki.gmi wiki
+=> ../recipes.gmi recipes
+=> ../bookmarks.gmi bookmarks
+=> ../contact.gmi contact
+=> ../about.gmi about
+
+## * * * * * * * * * *
+
+=> ../index.gmi * * back home * *
+
+## music theory
+### random notes on music theory
+
+What elements make a song? 
+
+Most music has three distinct building blocks: harmony, melody, and rhythm. How these are written by the musician and combined in new ways form new compositions.
+
+### * * * * * *
+
+Harmony has two states: dissonant and consonant.
+
+~ Dissonant harmonies are made up of notes that don't sound pleasing together. The ear can tell that something is "wrong" here. Progressions and transitions won't sound good in this state, and moving into a consonant direction will stabilize the sound.
+
+~ Consonant harmonies are made up of notes that sound pleasing to the ear. Progressions and transitions in this state flow into each other well.
+
+### * * * * * *
+
+Melody is what many folks refer to as the "hook" in a song, a melodic line that draws you into the song and keeps you listening until the end. Melodies have no limit in their creation - they can be created with any kind of instrument (such as a guitar, piano, or synthesizer), or simply with vocals.
+
+Melodies also have what's known as different states of motion. There are two states of motion in melodic terms.
+
+~ Disjunct motion involves longer intervals between notes. Compared to conjunct motion, disjunct motion is less pleasing to the ear and may not provide as memorable melodies.
+
+~ Conjunct motion is when notes are shorter in intervals. They flow together well, and provide memorable melodies that are pleasing to the ear.
+
+### * * * * * *
+
+Rhythm is the last major building block in a composition. In basic terms, rhythm refers to the repetitive pattern in the composition, or the "beat" of the song, as it is also called.
+
+Rhythms are measured with tempo, or beats-per-minute (BPM). The higher the song's tempo in BPM, the faster the rhythm of the song will be. For example, your average dubstep song is 140 BPM.
+
+### scales, octaves, and notes
+
+Octaves are a natural musical phenomenon where two notes are linked in a relationship where the higher note has a soundwave frequency of vibration that is twice that of the note that is lower. Playing the same melody in ascending and descending octaves will alter the pitch of a song, but not the melodies or harmonies.
+
+The root note of a scale is the starting note of the scale, otherwise known as its "tonal center". The root note of a chord, on the other hand, is the lowest-sounding note.
+
+### chords
+
+Here are some of your basic chords on guitar:
+
+~ A:
+
+	    	-E0
+	    	-A0
+	    	-D2
+	    	-G2
+	    	-B2
+	    	-e0
+
+
+~ B:
+
+	    	-E0
+	    	-A2
+	    	-D4
+	    	-G4
+	    	-B4
+	    	-e0
+
+
+~ C:
+
+	    	-E0
+	    	-A3
+	    	-D2
+	    	-G0
+	    	-B1
+	    	-e0
+
+
+~ D:
+
+	    	-E0
+	    	-A0
+	    	-D0
+	    	-G2
+	    	-B3
+	    	-e2
+
+
+~ E:
+
+	    	-E0
+	    	-A2
+	    	-D2
+	    	-G1
+	    	-B0
+	    	-e0
+
+
+~ F:
+
+	    	-E0
+	    	-A0
+	    	-D3
+	    	-G2
+	    	-B1
+	    	-e1
+
+
+~ G:
+
+	    	-E3
+	    	-A2
+	    	-D0
+	    	-G0
+	    	-B3
+	    	-e3
+
+### chord tips
+
+As you get better at putting chords together, try mixing some up and putting them in different orders while you strum the strings. Also, try strumming your chords in varying patterns so you can inflect the chords in different ways. You might come up with a cool chord progression!
+
+Begin practicing transitions by finding chords that are easy to switch between. For example, progressing chords from C to F is really easy - you essentially just move each finger down a string on the same frets.
+
+When I was learning, we sorted our strings from low-to-high when we wrote chords and scales down. We had an acronym - "Elephants And Dogs Got Big Ears" - or "E A D G B E". Simple way to remember your strings. Some people learn the opposite way and invert them in their mind from high-to-low, or "E B G D A E". This is fine as well - whatever is most comfortable for you to help you remember your strings and where they're at.
+
+### alternative tunings
+
+Sometimes, you might want an alternative tuning - for example, a heavier tuning, if you're wanting deeper, heavier sounds, like tones used in alternative rock or metal music, for example.
+
+Here are a few alternate tunings you might want to try experimenting with besides regular E standard, whose tuning we learned about above (EADGBe):
+
+~ Drop D tuning: DADGBe
+
+~ Double Drop D tuning: DADGBD
+
+~ Drop C tuning: CGCFAD
+
+Have fun exploring some of these alternative tunings and implementing them into your own playing and tone if they fit your play-style or preferred genre! I rarely leave E-standard becuase my guitar playing is usually focused around blues-style, but if I'm looking for more of a "alt rock" or "metallic" sound, I will sometimes drop down into these tunings to explore those sounds.
+
+> If you want to hear a great song utilizing one of these alternative tunings, in this case double drop D tuning, I recommend checking out "The Only Thing They Fear is You" by Mick Gordon from the Doom Eternal soundtrack!
+
+=> https://www.youtube.com/watch?v=ekY09M48Jvs "The Only Thing They Fear is You" - Mick Gordon, Doom Eternal
+
+## * * * * * * * * * *
+
+=> gemini://rav3ndust.xyz rav3ndust.xyz
+=> https://neighborli.xyz/@rav3ndust fediverse
+=> https://nosta.me/rav3ndust@rav3ndust.xyz nostr
+=> https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
+=> https://opensource.org/license/mit source code: MIT License
+=> https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
+
