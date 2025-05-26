@@ -1,0 +1,81 @@
+# digital garden 
+=> ../now.gmi now
+=> ../blog.gmi blog
+=> ../wiki.gmi wiki
+=> ../recipes.gmi recipes
+=> ../bookmarks.gmi bookmarks
+=> ../contact.gmi contact
+=> ../about.gmi about
+
+## * * * * * * * * * *
+
+=> ../index.gmi * * back home * *
+
+## audio
+### musical explorations
+
+Over the years, I have always been obsessed with music. I have been fascinated by its ability to tell stories without saying a single word, to evoke emotions with a single note. I enjoy both finding and listening to interesting music, as well as writing it myself.
+
+I love symphonic music, electronic music, rock music, and folk music. When it comes to instruments and production, I enjoy synthesizers, electronic production using free software, guitars, effects pedals, percussion, and no-input mixing.
+
+I have been in a few different bands, experimented with a good amount of different musical hardware, software, and instruments, and have also produced music alone under solo pseudonyms. Here are a few of the relevant links:
+
+* arkane: My solo project that started in 2012. The project is still technically active, though I haven't made any music under that name in awhile.
+=> arkane.gmi arkane
+
+* equipment: Here are some of the instruments and musical hardware that I've accumulated over the years.
+=> equipment.gmi equipment
+
+* music theory: Some of my notes on music theory.
+=> music-theory.gmi music theory
+
+* production: Here are some notes on production hardware and software I've used, along with some things I've learned on production over the years.
+=> production.gmi production
+
+* symphonia: An electronic rock band I was part of in Broken Arrow, OK. The project is defunct, however, you can still find all of our old music archives.
+=> symphonia.gmi symphonia
+
+* tunes: A page where you can find links to my current projects.
+=> tunes.gmi tunes
+
+* x3nyth: This is my newest pseudonymous project. It was started in 2016 and is still active. A compilation of original music from our Dark Nights Rising game was recorded under this name.
+=> x3nyth.gmi x3nyth
+
+I will probably end up doing new musical projects as time goes on, and if so, I will update this page and the Wiki.
+
+### random audio tidbits
+
+~ I started making music because...
+
+    I grew up listening to a variety of music, and always wanted to learn how to make it myself. I started out in rock music, and got decent at guitar and drums. Over time, I started to appreciate electronic music after some more exposure to it, acquired synths and audio software and hardware, and began doing production as well, which made me want to make records.
+
+~ Some of my favorite musical artists include:
+
+    I admire too many artists to name, but off the top of my head, ones like Porter Robinson, Muse, AC/DC, Black Sabbath, Skrillex, Excision, Aphex Twin, cxssidy, Echosmith, Crywolf, Within Temptation, Shiny Toy Guns, Krewella, Sirah, deadmau5, Madeon, Sigrid, Varien, Larkin Poe, The Wallflowers, and a ton of video game music comes to mind.
+
+~ My first time learning an instrument was:
+
+    I wanted to learn how to play guitar when I was around 9 or 10. My dad was into guitar, and had a few of his own. He got me an acoustic and told me if I could learn all the basic chords, he'd purchase me an electric. I put a lot of time in over that summer learning the basic chords (A, B, C, D, E, F, G) and learned how to do progressions, and he came through on his word, and I ended up with a Strat copy. Still have it today, in fact.
+
+~ My favorite audio software is:
+
+    Sunvox. I use it for about all my compositions these days, and it runs on everything. I like to create modules and route them through different effects to build new atmospheres in the more ambient-style stuff I do under the x3nyth name. For recording vocals, I still prefer Audacity to just about anything else, and then layering those files into Sunvox to mix with the music.
+
+~ The best video game music is from:
+
+    Any of the music from The Legend of Zelda series, the Tales series, Nier: Automata, old-school Mario music, the soundtrack of Celeste, and the music from the Ori series.
+
+~ The best guitars are:
+
+    I'm not a brand snob and couldn't care less if something is a Squier or Fender, Epiphone or Gibson, as long as a guitar plays well and sounds good, that's what's important. That being said, I am partial to Stratocaster, Telecaster, and Les Paul-styled guitars. Two of my current favorite guitars to play and record with are my Dean Evo and my Fender acoustic.
+
+## * * * * * * * * * *
+
+=> gemini://rav3ndust.xyz rav3ndust.xyz
+=> https://neighborli.xyz/@rav3ndust fediverse
+=> https://nosta.me/rav3ndust@rav3ndust.xyz nostr
+=> https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
+=> https://opensource.org/license/mit source code: MIT License
+=> https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
+
