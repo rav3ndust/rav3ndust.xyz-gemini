@@ -1,0 +1,47 @@
+# digital garden
+=> ../now.gmi now
+=> ../blog.gmi blog
+=> wiki.gmi wiki
+=> ../recipes.gmi recipes
+=> ../bookmarks.gmi bookmarks
+=> ../contact.gmi contact
+=> ../about.gmi about
+
+## * * * * * * * * * *
+
+=> ../index.gmi * * back home * *
+
+## symphonia 
+### an electronic rock project from Broken Arrow, OK
+
+Symphonia is my old musical project from when I lived in Broken Arrow, OK.
+
+The project was made up of myself and my roommates, and temporarily, one of our friends. The project was started by myself and f3ral (my old friend and roommate) in 2013, and it became defunct in 2017 when we all moved out of state.
+
+Symphonia's lineup before we split was:
+
+* rav3ndust: guitars, synthesizers, production
+* f3ral: vocals, bass, production
+* Nocturne: synthesizers, production
+* JakeFromStateFarm: vocals
+
+Symphonia did two EPs and a full-length record during our time together. Most of these tracks can still be found between our accounts on Soundcloud, Youtube, and Newgrounds. I also plan to have all of my music I have ever been involved in producing on this website soon, just to have everything in a centralized location when it comes to my stuff.
+
+The records we produced are as follows:
+
+* War Pony - 2013 (EP)
+* County Line - 2014 (EP)
+* annunaki - 2016 (LP)
+
+Before we all moved to different parts of the country, Symphonia played several shows in the Tulsa, Broken Arrow, and Owasso areas in Oklahoma. There are videos of a few of our shows on YouTube, and we also had a SoundCloud where you can hear some of our old tunes. I'll include links to those below!
+
+## * * * * * * * * * *
+
+=> gemini://rav3ndust.xyz rav3ndust.xyz
+=> https://neighborli.xyz/@rav3ndust fediverse
+=> https://nosta.me/rav3ndust@rav3ndust.xyz nostr
+=> https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
+=> https://opensource.org/license/mit source code: MIT License
+=> https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
+
