@@ -1,0 +1,111 @@
+# digital garden
+=> ../now.gmi now
+=> ../blog.gmi blog
+=> wiki.gmi wiki
+=> ../recipes.gmi recipes
+=> ../bookmarks.gmi bookmarks
+=> ../contact.gmi contact
+=> ../about.gmi about
+
+## * * * * * * * * * *
+
+=> index.gmi * * back home * *
+
+This is the Wiki Index. You'll find all entries categorized below.
+
+> Please note that a lot of the Wiki is still under construction, so you may encounter dead links. This isn't a bug - they'll be up soon!
+
+This Wiki is a "living index" of sorts. Not only will new pages be added to the wiki, but existing pages will likely be updated.
+
+### android: ( hardware and aosp distros )
+=> android.gmi android
+=> aosp.gmi aosp
+=> beckham.gmi beckham
+=> cyanogenmod.gmi cyanogenmod
+=> f-droid.gmi f-droid
+=> grapheneOS.gmi grapheneOS
+=> harpia.gmi harpia
+=> lineageOS.gmi lineageOS
+=> mata.gmi mata
+=> nexus.gmi nexus
+=> pixel.gmi pixel
+### audio: ( my music and gear )
+=> arkane.gmi arkane
+=> equipment.gmi equipment
+=> music-theory.gmi music theory
+=> production.gmi production
+=> symphonia.gmi symphonia
+=> tunes.gmi tunes
+=> x3nyth.gmi x3nyth
+=> autosynchronicity.gmi autosynchronicity (x3nyth)
+### gnu/linux: ( free software for everyone )
+=> arch.gmi arch
+=> debian.gmi debian
+=> desktop-environments.gmi desktop environments
+=> fedora.gmi fedora
+=> mint.gmi mint
+=> nix.gmi nix
+=> linux-software.gmi software i use
+=> twm.gmi tiling window managers
+=> ubuntu.gmi ubuntu
+=> wayland.gmi wayland
+=> xorg.gmi xorg
+### hardware: ( computers and electronics )
+=> blockpi.gmi blockpi
+=> martel.gmi martel
+=> pine.gmi pine
+=> sakura.gmi sakura
+=> shionne.gmi shionne
+=> yggdrasil.gmi yggdrasil
+### homesteading: ( life in nature )
+=> gardening.gmi gardening
+=> homestead-automation.gmi homestead automation
+=> solar-power.gmi solar power
+### internet: ( open protocols and platforms )
+=> browsers.gmi browsers
+=> chromium.gmi chromium
+=> fediverse.gmi fediverse
+=> firefox.gmi firefox
+=> gemini.gmi gemini
+=> matrix.gmi matrix
+=> nostr.gmi nostr
+=> search-engines.gmi search engines
+=> smallweb.gmi smallweb
+=> tor.gmi tor
+=> xmpp.gmi xmpp
+### raven's ridge: ( collective exploring sustainable living )
+=> coding-style.gmi coding style
+=> free-software.gmi free software
+=> health.gmi health and nutrition
+=> pancakes.gmi rav3n's house of pancakes
+=> rav3ndust.gmi rav3ndust
+=> ryoko.gmi ryoko
+=> sustainable-computing.gmi sustainable computing
+=> vegetarianism.gmi vegetarianism
+### software: ( FOSS we've written, forked, or enjoyed )
+=> 9ll.gmi 9liveslost
+=> dnr.gmi Dark Nights Rising
+=> nightshade.gmi nightshade
+=> nightshadeNeon.gmi nightshadeNeon
+=> nsbarriers.gmi nightshade barriers
+=> wiredWM.gmi wiredWM
+### websites: ( our spots on the web )
+=> fossphones.gmi fossphones
+=> neighborli.gmi neighborli
+=> r3xyz.gmi rav3ndust.xyz
+### random other stuff: ( things that didn't fit in other categories )
+=> films-tv.gmi films and television
+=> music.gmi music
+=> video-games.gmi video games
+=> weather.gmi weather
+
+## * * * * * * * * * *
+
+=> gemini://rav3ndust.xyz rav3ndust.xyz
+=> https://neighborli.xyz/@rav3ndust fediverse
+=> https://nosta.me/rav3ndust@rav3ndust.xyz nostr
+=> https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
+=> https://opensource.org/license/mit source code: MIT License
+=> https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
+
