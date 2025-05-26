@@ -1,0 +1,99 @@
+# digital garden
+=> ../now.gmi now
+=> ../blog.gmi blog
+=> wiki.gmi wiki
+=> ../recipes.gmi recipes
+=> ../bookmarks.gmi bookmarks
+=> ../contact.gmi contact
+=> ../about.gmi about
+
+## * * * * * * * * * *
+
+=> ../index.gmi * * back home * *
+
+## raven's ridge
+### a small collective exploring independent living and minimalism
+
+raven's ridge is a small project started by my wife, RyokoUmbra and I. While things are built under its name, it is not formally a business, it is more of a concept that we try to adhere to.
+
+raven's ridge experiments with things like building free software with minimalism in mind for running it on all systems, homesteading and automating the homestead, healthy living and eating right, independent living with renewable energy, and creating multimedia art through experimental music, videos, graphical art, and games.
+
+### projects
+
+Here are some of the projects we do. You will find free software, music, products, writings, and more that we have put together.
+
+=> blockpi.gmi BlockPi - A small, open computer based on Raspberry Pi and preloaded with GNU/Linux and a bunch of helpful software.
+=> dnr.gmi Dark Nights Rising - A text-based, open-source game about dealing with isolation and temptation.
+=> neighborli.gmi neighborli - An open social network on the Fediverse, connecting people from different servers all together.
+=> steadyhand.gmi steadyhand - An open suite of tools used to automate things around the homestead through a combination of hardware and software. Think Home Assistant, but for the homestead!
+=> wiredWM.gmi wiredWM - A fork of i3wm and sway, with heavy customizations, custom software and scripts, has convenient tools and helpful keybindings, follows the nightshade color scheme, and has a Serial Experiments: Lain theme to package it all up.
+=> x3nyth.gmi x3nyth - An experimental music project. x3nyth handles the audio composition and production for our multimedia projects.
+
+### what we believe
+
+The core tenets of raven's ridge are simple:
+
+* does it promote independence and freedom?
+
+    Everything we do is with a goal toward promoting independence and freedom, either for us, for our neighbor, or both. We put this idea into everything, such as homesteading (independently living through natural means), or building free software (software which respects the user's freedom to do with it as they please).
+
+    We believe in living in a way that increases the amount of freedom and independence we have instead of decreases it. When making a choice around the house or building a piece of software or something else entirely, we tend to ask "Is this going to help our freedom and independence?", or "Will this help promote the freedom of the users of this piece of software?", for example. Having this framework of asking if decisions in life will add or remove freedom and independence from life has been a useful metric when making choices.
+
+* what does this do to help the planet?
+
+    One thing that is important to us is the planet we live on. We couldn't get much done without good ol' Mother Nature, and as people who live in nature, we want to do everything we can to help preserve it instead of add to the issues we have today in the environmental world.
+
+    You'll notice we build our software to be minimal and run on as many systems as possible. This is because we hate e-waste, and don't like the thought of perfectly useful electronics going to the landfills just because some companies want to make some extra money by requiring newer hardware for their commercial operating systems, and banking on people's perceived inability to learn about how to install alernative operating systems. We think you should be able to use your device for as long as you want, without some company telling you when it's time to purchase a new one.
+
+    We also live among nature, and try to do what we can to give back to it. We eat mostly plant-based diets, and a lot of what we eat comes from our own gardens, or from our local produce shop. We try to do everything we can to grow as much as we can on the homestead and make purchases locally when we need to get other things.
+
+* will this help people in some way?
+
+    We like to help people. We think the world would be a better place if everyone tried to help one another more often, and spread more kindness. We want to do something to help people in the small ways that we know how, like sharing information, helping people learn about alternate technologies and building tools for them, telling stories that resonate with people through music or games, there is always some way to help people, even in small ways through media or programs.
+
+    Simple things like indie games with positive stories have brought a lot of joy to our lives, and that is something we want to share in our work with raven's ridge. Even if it's just a small reminder that there are good things out there in the world, the trick is finding them in the sea of chaos and negativity.
+
+### legal things we'd like to see 
+
+There are a number of things in the legal world that we'd love to see changed when it comes to helping people's independence and freedom. When possible, we make donations to some of the organizations that are allies in these missions.
+
+Great ones to keep in mind if you want to help as well include Electronic Frontier Foundation, Free Software Foundation, Matrix, Mozilla, Signal, The Tor Project, and many many more. If you see an open-source project that cares about these kinds of things and has the resources to put things in motion, please consider helping them out, too.
+
+* stay out of people's private communications!
+
+In several countries the last few years, I've been hearing about an uptick in governments wanting to get their noses into people's private conversations. This includes trying to pass legislation that would effectively undermine end-to-end encryption and giving law enforcement access to the messages.
+
+The problem with this is that it makes everybody a criminal without any proof. Encrypted, private messaging that they can trust should be an important right for everyone in this digital age. When we're in a room together, we can trust that the contents of our conversation are safe, unless one of us decide to reveal them to someone else. Messaging online should be the same way since it is how people communicate the most these days. There are other ways to get criminals off the streets than effectively bugging everyone's communications, including (the vast majority of) people who aren't breaking the law in any capacity.
+
+Plus, the minute this kind of system is built, it will not only be limited to law enforcement. If such a "backdoor" is built, malicious actors will find a way to walk right in. Even if you have "nothing to hide", please consider helping people who do. It's not all criminals who might want to hide something. Maybe they're a journalist in a foreign country, an abuse victim trying to navigate a bad situation, a gay or trans person trying to keep that part of their life private from people who might want to hurt them for it.
+
+These kinds of actions only work to punish normal, everyday citizens. If some sort of law threatening private communications passes, criminals, who aren't known for following the law anyway, will move illicit conversations to onion services or similar anonymous networks, or they'll learn how to use PGP. You'll notice criminals adapt quickly to stay hidden, and these kinds of laws only work to harm regular people, in this case removing the ability for them to trust that they have privacy in their online conversations.
+
+Everyone has a right to privacy, and that is paramount in conversation. Please choose a free software messaging application that you can trust, encourage your friends to join you, and if given the chance, do something to help with any legislation or petitions that aim to protect encryption and privacy.
+
+* enforce a truly open web.
+
+All too often, we get reminded that the internet that we know and love is effectively controlled by a handful of companies. We'd love to see some leglislation happen that works to open up the web the way it is meant to be, doing things like actually stopping monopolies, removing the legal abilities for companies to pry loads of personal information from users (except for what is strictly necessary for the service, and the user should have fully informed consent, rather than some legal document these companies know hardly anyone reads).
+
+You can barely traverse the internet today without finding sites laden by DRM, malicious ads, tracking scripts, sites forcing a phone number to create an account or log in - all manner of things that go against the idea of a free and open web. A huge number of people have been victims of data breaches because of huge companies not handling private information with the right respect. Huge platforms and companies want to box you in with subscriptions and nonfree software, all while trying to dominate the web through sheer size and funding. Please do everything you can when possible to help legislation or petitions you are aware of that might help advance a fair and open internet.
+
+* schools and government should use free software.
+
+If there are two places where free software should be used the most, it is in schools and in the government.
+
+Schools using nonfree software teach kids a bad lesson, and maybe violate their privacy. It teaches them the "right way" to use computers is through the nonfree platforms such as Microsoft Windows, iPads, chromebooks, etc. Because the code on these machines can't be audited, and accounts are required to use them, there's no telling how much personal data is sold about students. There have even been reports of schools spying on kids through their school-issued devices!
+
+Governments should use free software. A lot of government operations use Windows, which locks the government into a partnership with Microsoft, in a way. A government promoting freedom should use free software in its operations, and encourage regular people to use it, as well. Free software belongs to everyone, and doesn't lock essential government operations behind the systems of one company whose code can't be audited.
+
+If you are ever given the opportunity to talk to a school administrator or government official about using free software, or helping organizations trying to do something similar, consider helping out! While this might not seem like a big thing, it is important to consider the power that software holds, and some of the most-used software in the world is made by a few companies with bad track records when it comes to privacy and unnecessary data collection.
+
+## * * * * * * * * * *
+
+=> gemini://rav3ndust.xyz rav3ndust.xyz
+=> https://neighborli.xyz/@rav3ndust fediverse
+=> https://nosta.me/rav3ndust@rav3ndust.xyz nostr
+=> https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
+=> https://opensource.org/license/mit source code: MIT License
+=> https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
+
