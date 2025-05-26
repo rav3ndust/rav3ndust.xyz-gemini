@@ -1,0 +1,39 @@
+# digital garden
+=> ../now.gmi now
+=> ../blog.gmi blog
+=> wiki.gmi wiki
+=> ../recipes.gmi recipes
+=> ../bookmarks.gmi bookmarks
+=> ../contact.gmi contact
+=> ../about.gmi about
+
+## * * * * * * * * * *
+
+=> ../index.gmi * * back home * *
+
+## internet
+
+The internet needs no introduction, at least at a conceptual level. You know what it is - after all, you're on it right now!
+
+There are so many layers to the internet, though, and a lot of ways that you can avoid using the services of the "corporate web", as I like to call it. If you want to check out more decentralized and "smallweb" things, this next area is for you to check out.
+
+### relevant links
+
+=> browsers.gmi browsers: check out some of the FOSS browsers you can use as your gateway to the web
+=> fediverse.gmi fediverse: A federated network of decentralized social platforms
+=> gemini.gmi gemini: a protocol for a simple, minimal web
+=> matrix.gmi matrix: a federated communication protocol
+=> nostr.gmi nostr: a simple protocol for global, decentralized, and censorship-resistant social media
+=> tor.gmi tor: an overlay network to empower anonymous communication
+=> xmpp.gmi xmpp: an open and independent communication standard
+
+## * * * * * * * * * *
+
+=> gemini://rav3ndust.xyz rav3ndust.xyz
+=> https://neighborli.xyz/@rav3ndust fediverse
+=> https://nosta.me/rav3ndust@rav3ndust.xyz nostr
+=> https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
+=> https://opensource.org/license/mit source code: MIT License
+=> https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
+
