@@ -1,0 +1,61 @@
+# digital garden
+=> ../now.gmi now
+=> ../blog.gmi blog
+=> wiki.gmi wiki
+=> ../recipes.gmi recipes
+=> ../bookmarks.gmi bookmarks
+=> ../contact.gmi contact
+=> ../about.gmi about
+
+## * * * * * * * * * *
+
+=> ../index.gmi * * back home * *
+
+## mata
+### aka essential ph-1
+
+mata is the codename of the Essential PH-1.
+
+It is easily one of my favorite devices of all time - I've had mine since 2018. I still use mine every now and then, and continue to keep it updated with the latest supported LineageOS.
+
+=> https://rav3ndust.xyz/wiki/martel.html You can find some of the particularities of my Essential Phone here.
+
+### specs
+
+Here are the specs of the device:
+
+* GSM/CDMA/EVDO/HSPA/LTE
+* 5.71 in. IPS LCD display (Gorilla Glass 5)
+* 128GB/4GB RAM
+* 13MP dual cameras, 8MP front camera
+* USB-C charging port
+* 3040mAh lithium-ion battery
+
+### my thoughts on the device
+
+The Essential PH-1 is a great device. I have had mine for 6 years now, and it has held up well. It has consistently gotten updates through LineageOS, and has a durable build. The body of the device is made of titanium, so even though I use a case on all my mobile devices, I still was never too worried if I dropped it during one of the rare times the device was out of its case.
+
+Even when the device was getting Android updates from Essential (who as a company have since broken up), it was on-time, right alongside Google's releases on the Pixel devices. This consistent cadence has continued while running Lineage on the device, providing me years of current Android releases on the phone.
+
+The Essential Phone was one of the first devices to have that 'modern' look on smartphones. With very minimal bezel, the device has a smaller-looking body and a small amount of chin, but most of the front of the phone is the display, showing you all your stuff in the palm of your hand. It's commonplace now in 2024, but at the time the Essential Phone came out, I thought it looked pretty cool, and I wanted one. This was in 2017, before devices like the Samsung Galaxy s8 came out.
+
+I have mostly only positive things to say about the years I've been using my Essential Phone, and would only really have two negative things to say about it. The radios in the device are not the best, and where I live way out in the woods, this could be an issue sometimes where signal can be spotty. However, I mostly solve this issue while I'm at home since I can use wifi calling. The second issue is also pretty minimal for me since I'm not much of a shutterbug, but the cameras on the device are nothing amazing - they're good, you can take pictures fine with them, but don't expect the image quality to blow you out of the water.
+
+The battery in the device is pretty decent. Mine is now getting to the point where it needs to be replaced, but at its prime, the battery the device shipped with could handle 2 days or so without needing to be changed. Keep in mind I don't use my phone a ton and it has no Google services going on in the background.
+
+Overall, with its still-flashy look, hefty build, and consistency, the Essential Phone has remained one of my favorite mobile devices I've ever had. While the radios can be weak and the camera is kinda meh, it has overall been a fantastic little piece of hardware to run free AOSP operating systems on, and I regret that we won't be able to see an Essential PH-2 since the demise of Essential. It wasn't a big seller like a Samsung Galaxy, a Google Pixel, or an iPhone, but it was a small piece of history as it was a piece of hardware from a company run by Andy Rubin, founder of Android.
+
+### freedom-respecting operating systems for this device
+
+=> https://wiki.lineageos.org/devices/mata/ lineageOS | status: actively maintained
+
+## * * * * * * * * * *
+
+=> gemini://rav3ndust.xyz rav3ndust.xyz
+=> https://neighborli.xyz/@rav3ndust fediverse
+=> https://nosta.me/rav3ndust@rav3ndust.xyz nostr
+=> https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
+=> https://opensource.org/license/mit source code: MIT License
+=> https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
+
