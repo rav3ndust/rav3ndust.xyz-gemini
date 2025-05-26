@@ -1,0 +1,56 @@
+# rav3ndust's oasis of oddities
+=> ../now.gmi now
+=> ../blog.gmi blog
+=> ../wiki.gmi wiki
+=> ../recipes.gmi recipes
+=> ../bookmarks.gmi bookmarks
+=> ../contact.gmi contact
+=> ../about.gmi about
+
+## * * * * * * * * * *
+
+=> ../index.gmi * * back home * *
+
+## android
+### the world's most-used mobile OS
+
+Android is by far the most popular operating system in the world, not just on mobile, but in general usage - over 3 billion active users in 190+ countries. While I have my gripes with the standard version of Android, I love the fact that it is built on top of the Android Open Source Project (AOSP).
+
+AOSP is the bare version of Android, without any Google stuff or vendor bloat thrown in. It is on top of AOSP that a lot of custom Android distributions build - such as LineageOS, which is what I use on my Android devices, along with F-Droid as an app store, to make a great mobile FOSS experience.
+
+=> https://f-droid.org/en/ f-droid
+
+### custom android distributions
+
+Custom Android distributions (otherwise known as 'custom ROMs'), are versions of Android that alter the experience in some way or another. Some focus on stability and extending device lifetimes with the latest Android updates. Others focus on security, and some focus on extreme customizability.
+
+If you want to mess about with different distributions, there is certainly something for you. Here are some of the ones I've used:
+
+=> calyxOS.gmi calyxOS
+=> cyanogenmod.gmi cyanogenmod
+=> grapheneOS.gmi grapheneOS
+=> lineageOS.gmi lineageOS
+
+### hardware
+
+Here are some Android devices I've had over the years, some of which I am still running new versions of LineageOS on.
+
+=> beckham.gmi beckham
+=> harpia.gmi harpia
+=> mata.gmi mata
+=> nexus.gmi nexus
+=> pixel.gmi pixel
+
+### relevant links
+=> aosp.gmi Android Open Source Project
+=> f-droid.gmi f-droid
+
+## * * * * * * * * * *
+
+=> gemini://rav3ndust.xyz rav3ndust.xyz
+=> https://neighborli.xyz/@rav3ndust fediverse
+=> https://nosta.me/rav3ndust@rav3ndust.xyz nostr
+=> https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
+=> https://opensource.org/license/mit source code: MIT License
+=> https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
