@@ -1,0 +1,57 @@
+# digital garden
+=> ../now.gmi now
+=> ../blog.gmi blog
+=> wiki.gmi wiki
+=> ../recipes.gmi recipes
+=> ../bookmarks.gmi bookmarks
+=> ../contact.gmi contact
+=> ../about.gmi about
+
+## * * * * * * * * * *
+
+=> ../index.gmi * * back home * *
+
+## x3nyth
+### experimental project started in 2017
+
+x3nyth is a project I started in 2017 after the split of another project. I was getting a little tired at the time of doing the more traditional "EDM" style, and I wanted to move in a more experimental direction.
+
+The x3nyth project came from this idea, and I began making some experimental stuff using Sunvox as my music software of choice (still using it!). I have slowly been shaping the resulting material into what will be the first real x3nyth album. One of the things I enjoy doing the most is generative-style music and ambient.
+
+x3nyth is writing the original soundtrack for Dark Nights Rising, as well, a game put together by Raven's Ridge.
+
+> Note that you can now listen to x3nyth songs on the relevant album pages in the Wiki! (https version of this site)
+> If you feel like supporting the x3nyth project, you can also purchase my records on my bandcamp and download it in your audio format of choice.
+
+### discography
+
+* autosynchronicity - 22 May 2025
+* Dark Nights Rising - TBA
+
+For the last few years, I've been writing that first record, called autosynchronicity. It's mostly been making a bunch of music, sorting through it and finding things that I think fit the particular theme well. I look forward to having it assembled into a full record.
+
+### notes
+
+x3nyth has never played a live show, but I wouldn't mind changing that sometime with some live-editing or generative sets. I also like the idea of manipulating Sunvox through Orca, which I am going to be experimenting with further soon.
+
+I have also thought about streaming live music sets online (twitch/youtube) for the x3nyth project. This is something I might try to make a regular thing on my channels.
+
+The main goal of x3nyth is always to write more experimental music, things that make me think of stuff like Aphex Twin, Boards of Canada, and some other acts I grew up with that were outside of the mainstream. The x3nyth project so far has yielded some interesting "industrial" sounding tracks, some ambient stuff, generative music, and some freeform-melodic stuff that was put together live.
+
+I intend to keep exploring that side of my musical influences, so I see myself making things under the x3nyth name for quite awhile to come.
+
+### relevant links
+
+=> https://rav3ndust.xyz/tunes.gmi x3nyth on rav3ndust.xyz
+=> https://x3nyth.bandcamp.com x3nyth on bandcamp
+
+## * * * * * * * * * *
+
+=> gemini://rav3ndust.xyz rav3ndust.xyz
+=> https://neighborli.xyz/@rav3ndust fediverse
+=> https://nosta.me/rav3ndust@rav3ndust.xyz nostr
+=> https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
+=> https://opensource.org/license/mit source code: MIT License
+=> https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
+
