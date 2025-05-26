@@ -1,0 +1,57 @@
+# digital garden 
+=> ../now.gmi now
+=> ../blog.gmi blog
+=> ../wiki.gmi wiki
+=> ../recipes.gmi recipes
+=> ../bookmarks.gmi bookmarks
+=> ../contact.gmi contact
+=> ../about.gmi about
+
+## * * * * * * * * * *
+
+=> ../index.gmi * * back home * *
+
+## autosynchronicity 
+### experimental record for the x3nyth project - released 22 May 2025
+
+autosynchronicity is the debut record from the x3nyth project.
+
+=> x3nyth.gmi x3nyth
+
+=> https://x3nyth.bandcamp.com/album/autosynchronicity you can purchase and stream 'autosynchronicity' here
+
+It's a concept record, telling a story through audio of an epic war that splits the world into two: Lux and Tenebrae.
+
+In the time 50XX, an oppressive force called Ravinia has taken over the world, and is occupying every city by force. People are forced to submit, be turned prisoner, or killed. A counterforce called the Black has risen up - and are looking to fight the Ravinians through sheer numbers and willpower. When the two clash, cybernetic weapons are deployed, critical infrastructure is hacked and taken over, and in a mystic cataclysm, the timeline is inverted and split into two.
+
+In one timeline (Lux), the Black wins the war. The Ravinians are destroyed, and despite huge losses and tons of destruction, the world begins to rebuild and repopulate.
+
+In the other timeline (Tenebrae), the Ravinians destroy the Black. All resistance is crushed, and the Ravinians establish a new world order. Regular people are divided into castes, and either work for the elites for their whole lives, or are killed when they attempt to resist their rulers in any way.
+
+> ~ expanded lore for our conceptual stuff is coming soon to the Wiki!
+
+### trivia
+
+The tracks on this record have been in production since 2016. I probably wrote close to 50 tracks over those years, and refined my favorites, culling the selection of tracks down to 13, which I thought fit the theme and concept of the story surrounding the record.
+
+The chimes you hear in "phantom garden" are real wind chimes. They were recorded in April on a windy day in our garden area at home. They were then imported into Sunvox and manipulated for the purpose of the song.
+
+autosynchronicity's cover art was designed by myself and RyokoUmbra, my wife. It was drawn in noodle.
+
+=> https://100r.co/site/noodle.html noodle
+
+### relevant links
+
+=> https://rav3ndust.xyz/tunes.html x3nyth on rav3ndust.xyz
+=> https://x3nyth.bandcamp.com x3nyth on bandcamp
+
+## * * * * * * * * * *
+
+=> gemini://rav3ndust.xyz rav3ndust.xyz
+=> https://neighborli.xyz/@rav3ndust fediverse
+=> https://nosta.me/rav3ndust@rav3ndust.xyz nostr
+=> https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
+=> https://opensource.org/license/mit source code: MIT License
+=> https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
+
