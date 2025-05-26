@@ -1,0 +1,288 @@
+# now 
+=> now.gmi now
+=> blog.gmi blog
+=> wiki.gmi wiki
+=> recipes.gmi recipes
+=> bookmarks.gmi bookmarks
+=> contact.gmi contact
+=> about.gmi about
+
+## * * * * * * * * * *
+
+=> index.gmi * * back home * *
+
+## 2025
+
+### 2025-05-20
+
+03:35
+
+Finished a new track up tonight and put it on the tunes page - it's called "nyx's lament". It's a slow, experimental ambient track.
+
+Yesterday was a good day, albeit stormy. My wife and I hit our favorite mexican restaurant in town, and then came back home and hung out for awhile. We had some good storms again tonight - there was a tornado warning for a few minutes just a little bit away from us, and we got some really good rain, thunder, and lightning.
+
+I got a new game called 20XX (new to me, once again). It's a very good game, and it's had me playing it quite a bit. It makes you think that it's what Mega-Man would be like if it were a rougelite game. The fact that it has two playable characters and daily/weekly challenges is a lot of fun, as well (there's also some multiplayer component, but I've yet to try it).
+
+Not much to report on other than that! A new week is here. Going to try to wrap the autosynchronicity record up and get some more work done on some of our software tools this week.
+
+### 2025-05-15
+
+16:31
+
+Another Thursday is already here - what a fast week this has been! I've been getting some more projects worked on, and getting some new music done, as well. Here's what's been up this week:
+
+* Finished new songs and added them to the tunes page. These include "phantom garden" and "kharlan (martel 01)".
+* Began work on the Nightshade software suite. Right now, I'm working on Nightshade Editor - in fact, I'm writing this post from the editor! :)
+* Did some musical experimentation with orca and pilot, great tools from Hundred Rabbits. I have a writeup on that in the backlog.
+* Added a few new pages to the Wiki.
+
+Other than these things, been playing a few new games and getting some things done outside in between stormy days. On the games front, I got some more 'new-to-me' games, including Morbid: The Seven Acolytes, Mega Man 11, and Degrees of Separation. Each of these have been a lot of fun so far, though I haven't finished any of them yet. Need to get back into them this weekend.
+
+Been interesting weather-wise around here, as well. We've went from having several stormy or generally overcast days to clearing out and having a bit of a heatwave - it was almost 100 here a few days ago! Today, it's cooled down a bit, 79 and some rainshowers. Nothing too big, but a nice break from the early heat.
+
+### 2025-05-09
+
+17:27
+
+Been a pretty good last month since I last updated my 'now' page. I've gotten a few things finished up, and still working on some other things in the background to a usable state:
+
+* Finished up a tunes page for folks to stream and download my music.
+* Finished and added a few new songs: "aether" and "subliminal spaces" to the tunes page.
+* Added some new stuff to the wiki. More is in the backlog.
+* Continuing work on glyyph, a nostr client I've been slowly working on the last little bit.
+* Finished a new FOSSphones News Roundup, which is also mirrored on Gemini.
+
+Been working on a few other things, but they're things I'm saving for a further write-up in the wiki. :D
+
+Other than that stuff, we've been getting some things done outside, building a new patio and planting some more vegetables and fruits. I'll have to take some pictures soon and upload them to the forthcoming Images section of this site and on Pixelfed. Been finishing up a few games as well. Finally finished up Hades, though there is still technically more I can do there. Everspace has been a blast, and I've also been getting back into playing Warframe online every now and then as well.
+
+Speaking of games, I'm contemplating getting a Playdate and porting the game we've been building over to it. If that happens, I'll keep a little devlog about it. The Playdate looks like a fun device, and I'd love to get my hands on one, build games for it and play games on it! I still need to pick up a Steam Deck, as well, but all in due time :)
+
+### 2025-04-08
+
+03:26
+
+It's been a very interesting end of last week and this weekend - we had some crazy storms here in Arkansas, and had some good flooding in some parts of the state.
+
+Where I'm at, we had four straight days of heavy rains and thunderstorms, and on Friday night, we had a very impressive hailstorm at about 1:30 in the morning. I looked out the window when I heard the hailing start, and it looked like the hailstones were maybe a little bigger than quarters. The hail knocked the antenna off its base on our car, so that's something we're going to have to get fixed, but thankfully, that was the only damage we had to anything.
+
+While we had some a lot of good rain and severe thunderstorms, we were lucky in my part of the state - other parts of Arkansas had some very big tornado events. I was watching some live weather streams while it was all going on with storm chasers on the ground, and one of them captured some insane footage in Lake City.
+
+With the storms over, I've just been hanging out with my wife and playing a new (to me) game, Hades. It's a very fun roguelike game rooted in Greek mythology, and if you've never played it and like that kind of thing, you might consider giving it a try! On the other side of things, I have been working on the usual software stuff and slowly working on a new track for the x3nyth record.
+
+### 2025-04-01
+
+01:01
+
+It's been a fun March, and I haven't updated this now page since back in February!
+
+I've mostly been hanging out, working, and playing some new games over the last month. I've also been working on some new music, and have completed several new songs that are going to be part of the x3nyth record.
+
+Speaking of music, I'm about to setup a dedicated page for it here where you'll be able to listen to it and download it if you'd like. I'm becoming more and more dissatisfied with Soundcloud over the years, so I'm going to just build my own music page here where everything will be listed and able to be downloaded and listened to for anyone interested in hearing it.
+
+We've had several good storms this month, and we're expecting some more this week. Looking forward to listening to the rain hitting the roof and the thunder in the background some nights this week while working on the computer.
+
+I've been playing several new games over the last few weeks. Here are a few of my favorites I finally cleared out of the backlog over this month:
+
+* Doom (2016)
+* Doom Eternal
+* Cult of the Lamb
+* Wavetale
+* Risk of Rain
+* Risk of Rain 2
+
+I loved the old Doom games and had completely forgotten that there were new entries in the series until I was looking through some things on the Nintendo e-shop. I got them both and played through them and they were awesome. The music in those two are amazing as well, and I'm definitely looking forward to the next entry which is supposed to come out this year, Doom Dark Ages. Hopefully, that one will come to the Switch 2.
+
+I'm still playing through Cult of the Lamb. It has been a great little game so far, and I like the couch co-op you can enjoy if you want to play with someone else. Wavetale was a short but very fun little adventure, and both Risk of Rain games were very enjoyable. Still playing through those as well, need to unlock a few more characters in each.
+
+Other than all of that stuff, still continuing to work on the game of our own that we've got brewing, and looking forward to announcing more on it when I have something cool to show off for it.
+
+I'll try to remember to update this thing more this month - even if nobody but me ever reads it, it's nice to write some things out! Got some more things to add to this site's wiki as well, and working on a new FOSSphones news roundup for this week.
+
+### 2025-02-17
+
+15:07
+
+We're getting ready for another winter storm here in my neck of the woods this week. It's not looking like we're going to get a bunch of snow this time around, but we might see some decent ice, so we're prepping for that possibility. It's due to come in tomorrow, so I'm spending today getting things ready and prepped in case the ice comes in hard.
+
+Other than that, I've just been working on some of our FOSS stuff and playing some new games, as usual. I picked up another "new to me" game last weekend, Monster Hunter Rise. I had played Monster Hunter World before, but it's been a few years, and I heard Wilds was getting ready to come out soon, and I remembered I hadn't played Rise before. It's been a fun little adventure so far. I've been alternating between the longsword and the split axe in my questing on the game recently, and it's been a lot of fun.
+
+Work on our little game is ongoing. I am saving all of the details for a big update where I'll share everything on a dedicated website for the game. I am thinking about making a portal where people can request to be part of a testing group, so that when the game gets to state to where I think it is ready for some testing, I can send out release builds to those who wish to be in the testing group. They can play through the levels, and report back any bugs/glitches that they might have encountered during their play time. I'm looking forward to this process, and I'm looking forward to ironing out any bugs we come across and get the final game on the stores. I'll be mentioning details on all of this, including which platforms we intend to support and release on, in that big update when it happens. I still need to purchase a domain for the game stuff pretty soon.
+
+Speaking of the game, I'm also working on some music for the soundtrack for the game. Just like our text=based game, this one will have an original soundtrack, written under my x3nyth musical project name. It is being written with the game's story and theme in mind, so it is going to be a lot of fun to see how it turns out as we build it and play the final product when it's done and good to go.
+
+There is another project I'm working on that will find its way to the Wiki soon in an 'official' announcement sort of capacity. I'm not going to say much about it other than it's related to Linux - and I look forward to being able to talk more about it when it's more than just a concept. It's an idea I've been batting around for awhile, and I've decided I want to work on it, so I'm going to. I will post some more about this pretty soon, as I'm currently writing out an entry for the wiki about it.
+
+Other than all of this, I've just been enjoying life. Having a beer here and there, spending time on the communities I enjoy online, and playing games. That's my normal life, and I'm glad that I get to do it every single day. Living out in nature, enjoying writing new software and new music, and spending time with my wife and my close friends. These simple things are what makes life for me, and there is nothing that could ever replace that. I'm grateful for all of the time I get to spend doing these things, and I hope to continue to build useful and fun things that people can enjoy.
+
+There's another game on my list that I want to play pretty soon, a "new to me" game that has been out for a few years at this point. It's called Xenoblade Chronicles 3 and you've probably heard of it and maybe even played it. I haven't played it yet, but have seen it online multiple times. I'm thinking about finally picking it up and giving it a playthrough. There are so many games that aren't brand new, but are new to me, and I'm looking forward to working through some of those games on my Switch 'wishlist' and giving them a playthrough. I'm also aiming to play Cocoon and a few others on my list pretty soon, and I also plan on making some videos or doing some streams with some of these games as the focal point.
+
+Lately, in our latest videos, my wife and I have been playing through PokeMMO. It is a fun, Pokemon-based MMO allowing you to get Gym Badges, collect and train your Pokemon team, and play with other people online. We're currently in the Unova region, and planning on going through each region and collecting the Pokemon there and going through the Gyms. This is all part of a Youtube/Odysee stream series we're doing, so you can watch along if you want to see what this game is like! You can also grab it on any Linux distribution that supports Flatpak and run it yourself, so you can do your own Pokemon collecting and adventuring!
+
+I'll leave a few links for my wife's and my own Youtube and Odysee channels below!
+
+=> https://youtube.com/@rav3ndust my videos and streams on youtube
+=> https://odysee.com/@rav3ndust:1 my videos and streams on odysee
+=> https://youtube.com/@RyokoUmbra my wife's videos and streams on youtube
+=> https://odysee.com/@RyokoUmbra:4 my wife's videos and streams on odysee
+
+
+### 2025-02-04
+
+00:42
+
+It's been quite the last month since the new year began. 2025 has been pretty decent so far, mostly just been enjoying the (temporarily, from the looks of it) warmer weather, beating a few games, and getting some work done, as usual.
+
+In mid-January, we had 14 inches of snow in my town here in Arkansas. Wasn't able to get out of the house for a few days, so was glad we had stocked up on some things we needed several days in advance. Nicotine, caffeine, food, pet food, and water, and we were set.
+
+Thankfully, we didn't have to deal with any power outages, but we had access to a nice wood stove in case the power did go out. A very nice thing to have when it gets super cold and the power goes out. For several nights that week, it got down to eight degrees Fahrenheit, so I stayed inside in my hoodie and hung out on the internet.
+
+Been working further on the video game concept we're slowly building up - still not ready to announce anything on that front yet, but I will say that it is an indie side-scrolling platforming game. I'm ready to get a few things solidified on it, do a write-up about it, and open-source the repo. When the game reaches the right state, I plan on putting an alpha build out so people can test it out and report any bugs that they might find.
+
+In other events, I've just been working on FOSSphones, adding some more things to this site's wiki, and stuff like that. I've also beat a few new games I've picked up lately, which include Tales of Graces f: Remastered, Braid, Sonic x Shadow: Generations, Super Onion Boy, and the DLC I never finished from The Witcher 3. These games kept me occupied at night quite a bit, and now I'm getting back into Warframe once again.
+
+Also been working on some new music, both solo and with a new friend I made not long ago. The solo music is wrapping up a new full-length record, and working on the game soundtrack. Both of these projects are under the x3nyth name, and I am excited to have them finished up - a lot of fun tunes have been coming from these sessions!
+
+Been playing a lot of Luanti as well. Need to get back into streaming and making videos once again - might try to do that a bit sometime this week in between working on things.
+
+## 2024
+
+### 2024-12-26
+
+04:41
+
+Well, Christmas has come and gone, and we're coming up on another New Year already.
+
+It doesn't seem quite right to think about how 2024 is already almost over. Its been quite the year, with some highs, some lows, a lot of fun, and some sad moments, as well. In short, another year around the sun.
+
+We got quite a good bit of stuff done this year as far as some of our software and other work goes. We have begun building up a small indie game vision that I'm going to be mentioning in a future post pretty soon. My wife and I are getting the concepts for this game together, and then I'll be writing up a little 'announcement' of sorts about it. It's going to be a lot of fun.
+
+We've been working on some graphical assets and plans for the story of this game that we're going to be working on, and I've been thinking about how some music for it might sound, and coming up with some ideas there, too. Speaking of music, I've been doing some writing in some spare time over the last few weeks, and have a few new tracks that are nearing completion. They'll be posted up for download, as usual, when they're finished up.
+
+Other than all of this, I have just been playing a few new games, keeping warm, and getting ready for the New Year to arrive. In January, I have an appointment to get some teeth that will most likely need pulled looked at, and I'm looking forward to that. Will certainly be nice not to have to worry about that so much anymore.
+
+Thanks for stopping by, and hope you have had a good holiday and a great upcoming New Year, as well. 2024 was crazy in a lot of ways, but all in all, it was a good year for me, and I'm looking forward to seeing what 2025 has in store, as well.
+
+### 2024-12-03
+
+15:21
+
+It's been a few weeks since I've updated this page. I've had a busy last few weeks. Visisted with some family over Thanksgiving week, so didn't get a ton of work done on anything during that time. Had a good time, however, and got some more plans with family coming up in a few weeks around Christmas time.
+
+I've picked up a new (to me) game over the last few weeks and played a few other games as well. I grabbed Halo: Infinite, which came out a few years ago, but I never got around to picking it up till recently. I played through the campaign and rather enjoyed it. My wife and I have been enjoying some of the multiplayer, as well.
+
+Been working on some more Youtube videos as well, and planning on doing a stream of some Luanti again in the next few days, either on Youtube or X. Other than that, just getting back into working on stuff again this week. Enjoying the colder temperatures we have been having here in Arkansas, and looking forward to winter. Nothing like sitting round a wood stove and enjoying some good food and movies with family.
+
+### 2024-11-14
+
+00:24
+
+Been feeling a lot better the last few days. For the first few days after that seizure, my legs were hurting pretty good, but they have since improved a ton after a couple of days of rest, and I'm feeling mostly back to normal.
+
+I'm glad that I seem to be feeling back to normal, because I need to finally get up on the roof of our other building and try to patch a small leak we found. I believe I mentioned it in an earlier update. It isn't that big of a deal, but I prefer to fix these things early before they have a chance to get worse.
+
+Other than resting up after that seizure the other night, I have been thinking about some new videos to make, working on our "FOSSfit" health app, and getting some more done on this site, of course. I am also setting up a small mining area in one of our buildings for mining Monero, and it has been going well so far. I'm making a simple setup to where I can SSH into the mining machines anytime I need to check on them, or their connection status to the mining pools.
+
+That's about all I've been up to this week, aside from also getting a new FOSSphones news roundup finished up yesterday. I'm hoping I continue to feel better and get some more things wrapped up before this weekend rolls around.
+
+### 2024-11-11
+
+18:46
+
+Well, today has taken one nice turn. We were going to make something for dinner, but it sadly wasn't thawed out, so we're doing a bit of a simple night and having pizza instead. It sounds pretty good to me, since I've been having a craving for pizza the last few days.
+
+Bits of me still feel a little al-dente from having the seizure the other night, so I have been sitting in my chair, taking it easy and trying to rest, and working on the site a good bit more today. I've also been doing some experimenting about with Ollama to use as the background for the Shellbie project - more to come on that when it is finished up and ready for testing. :-)
+
+Going to spend the rest of the night eating some pizza, watching something good on TV (hopefully), maybe playing some Celeste later, and finishing up a bit more work on here I still have planned this evening.
+
+### 2024-11-11
+
+14:59
+
+Well, the last few days have been a bit of a blur, and I've barely been able to do much of anything, so I haven't got to update this page in a few days, or get some other things done I wanted to get done on the site.
+
+As you might have seen if you follow me on the fediverse, Saturday night, I had a seizure again, for the first time in awhile. We had just finished up filming a video for Youtube and Odysee where we were playing Luanti/Minetest, and I had come back inside and was getting ready for bed. After we crashed, I guess at some point, I had my episode. My wife was thankfully home and was able to keep me held down so I didn't seriously harm myself.
+
+I did hurt my legs pretty good though, apparently, and have been walking with my cane again. Not the biggest fan of having to get around like this, but right now it's the only way I can stand upright without feeling like I'm going to lose my balance. Usually takes a few days after a seizure for me to go back to feeling 'normal'. Otherwise, I'm back in my computer chair today, working on some things for the site, our project we're building on top of ollama, and some other stuff I plan on touching on further soon.
+
+Hope everyone is having a good start to their week. Hopefully mine continues to improve and I can get back to getting more things done over the next few days.
+
+### 2024-11-07
+
+13:12
+
+I got up earlier today and had some coffee. Having another cup now. Just been chilling out on my machine, reading some news, and planning the day. Got some things I need to get done outside today since the weather is nice again, and then planning on splitting the rest of the day between some wiki work and some work on our FOSS health app.
+
+Thinking about recording some more Youtube/Odysee videos this weekend. We're going to be doing the "100 Days of Luanti" challenge, where we try to survive for 100 days in a Luanti survival world without dying. It should be fun. I was going to do the same thing last year, but stuff got in the way and I wasn't able to do it. This year, I have had more time to do things like make music and videos again, so it has been a lot of fun, and a lot more freeing.
+
+I've been enjoying doing these little 'now' updates more often. I may try to do one every day, or at least several times a week. It's a fun little way to get the random thoughts out there without doing full blog posts.
+
+### 2024-11-05
+
+18:30
+
+Planning out dinner with my wife and watching some youtube, have a tab open in my browser showing the live election reporting. Early results have Trump ahead 23-3 with Indiana, West Virginia, and Kentucky reporting in as Trump victories. Vermont has already been called in for Harris, with others getting ready to report in by the looks of it. It's going to be a tight race! Other than checking in on that every now and then, I've just been working on a new tune for our game and adding in some more entries to the wiki.
+
+search engines is in progress, and should be live on the wiki by the time this 'now' entry goes live. It's just a look at private search engines I like that might be useful to someone trying to quit using Google or Bing or something like that. Give it a look if that sounds like something you might be into.
+
+Working on some nostr stuff this week and getting some things done around the house. Got a few intense storms last night, that was fun. It did show me a leak I have to deal with in one of our buildings, which is something I'm planning on doing tomorrow if it remains sunny.
+
+Guess tonight I will be up working on some of these projects online while keeping up with some of this election stuff in the background. Like what I imagine most people are thinking at this point in the cycle, I am ready for it to be over, regardless of the outcome (can barely open any website or have any conversation without hearing about trump/harris).
+
+Hope everyone has a good night, and try not to lose your mind over the politics, no matter which 'side' you're on! :)
+
+### 2024-11-04
+
+16:09
+
+It's been a rainy one in my neck of the woods the last few days. I have been mostly inside on the computer, and working on finishing up some more things for the wiki. I also finished up nightshadeNeon-webgen, a small web-page generation script that follows our nightshadeNeon color scheme. We have been using this in the background for awhile to convert markdown files to HTML files ready to make their way to the wiki.
+
+Thanks to all this rain, I found a small leak in one of our buildings yesterday. Once all the rain calms down, I'm going to have to get up on the roof and see if I can seal the leak off. We had to do this same process on our motorhome last year, so this is becoming something we're pretty good at. :-)
+
+While I'm ready for these storms to finally die off, I have been enjoying the little cool front it has brought with it. It has felt very nice outside, at the very least. Hopefully after tonight we're done with the heavy rainstorms for awhile, and I can get up on the roof and seal the leak.
+
+Other than the rainstorms, I've been working on adding some more things to the wiki, working on our little FOSS health application, and getting ready to setup a Gitea instance on a new domain I picked up last night. Taking some notes on other things that need to get done this week. Should be a productive one, from the looks of it.
+
+### 2024-10-31
+
+14:58
+
+Sounds like my wife and I might be going out into town today to visit the haunted house in town. Sounds like it might be a good time, as long as it isn't as lame as some of the ones our school tries to come up with back in the day with cheap tricks and little smoke machines. :)
+
+Been playing some Celeste in between moving more things around in the repos. Everything is settled on the site, other than some dead links that need filled in where we have some missing spots in the wiki. All in good time!
+
+We watched The Exorcist: Believer the other night. It was about what I thought it was going to be. The story held up fine, but the "scares" just weren't scary, but it seems like not many modern horror flicks are anymore. Still, with that in mind, the source material is in a class of its own.
+
+If anyone else is reading this, hope you have a happy halloween.
+
+### 2024-10-30
+
+13:24
+
+Happy Halloween! I finally got my new site redesign live on my server, and have had a busy last few months while slowly building it up. Keep in mind that if you're reading the site now, you might find that there are a few dead links - this is being worked on, so you don't need to worry about opening up an issue in the repo :)
+
+We have also been working on moving our fediverse instance, neighborli, over to mastodon. The transition is complete, and anyone who wants is welcome to join in the conversation - registration is open and ready!
+
+We're thinking about having dinner tonight after work and maybe hitting a haunted house in town. I don't look forward to the traffic, but I'm sure it will be a fun time.
+
+### 2024-07-09
+
+16:37
+
+Decided it was time to revamp my personal site. Been working on the wiki (aka digital garden), writing down some of the recipes we use around here to include on this site, and finishing up the redesign overall. It's looked the same for several years now, so thought it was time to switch it up.
+
+Other than that, been trying to beat the summer heat here in Arkansas (finally got some rain (and some crazy wind) lately thanks to the remnants of Beryl, which cooled it down a bit), working on our Dark Nights Rising game, doing some music, and getting back into building little raspberrypi-powered computers to use around here for homestead automation.
+
+> Fun fact - I adapted the stylesheet for the site revamp from my custom Midnight Pub theme! :-)
+
+
+## * * * * * * * * * *
+
+=> gemini://rav3ndust.xyz rav3ndust.xyz
+=> https://neighborli.xyz/@rav3ndust fediverse
+=> https://nosta.me/rav3ndust@rav3ndust.xyz nostr
+=> https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
+=> https://opensource.org/license/mit source code: MIT License
+=> https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
+
