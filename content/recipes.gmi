@@ -1,0 +1,42 @@
+# rav3ndust's oasis of oddities
+
+=> now.gmi now
+=> blog.gmi blog
+=> wiki/wiki.gmi wiki
+=> recipes.gmi recipes
+=> bookmarks.gmi bookmarks
+=> contact.gmi contact
+=> about.gmi about
+
+## * * * * * * * * * *
+
+=> index.gmi * * back home * *
+
+### everyone loves food
+
+We love to cook at home, and we are slowly "digitizing" some of our favorite recipes that we make regularly to share here.
+
+> This area is currently under construction. Check back later for more entries! :-)
+
+### Our recipes
+
+Here are some of our favorite recipes that we've either come up with ourselves or adapted for our own uses. We will be adding new ones often, so be sure to check back every now and again!
+
+=> recipes/peppered-kale-omelettes.gmi Peppered Kale Omelettes
+=> recipes/grannys-breakfast.gmi Granny's Breakfast
+=> recipes/taco-salad.gmi Taco Salad
+=> recipes/carne-asada.gmi Carne Asada
+=> recipes/vegetarian-chili.gmi Vegetarian Chili
+=> recipes/homemade-pizza.gmi Homemade Pizza
+=> recipes/chili-spaghetti.gmi Chili Spaghetti
+
+## * * * * * * * * * *
+
+=> gemini://rav3ndust.xyz ~ ~ rav3ndust.xyz ~ ~
+=> https://neighborli.xyz/@rav3ndust fediverse
+=> https://nosta.me/rav3ndust@rav3ndust.xyz nostr
+=> https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://x.com/rav3ndust X
+=> https://github.com/rav3ndust/rav3ndust.xyz-gemini source code to this capsule
+=> https://opensource.org/license/mit capsule code: MIT License
+=> https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
