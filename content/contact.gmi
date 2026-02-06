@@ -1,7 +1,8 @@
-# contact me 
+# contact me
+
 => now.gmi now
 => blog.gmi blog
-=> wiki.gmi wiki
+=> wiki/wiki.gmi wiki
 => recipes.gmi recipes
 => bookmarks.gmi bookmarks
 => contact.gmi contact
@@ -17,7 +18,7 @@ Here are some ways you can get in touch with me:
 
 >  ~ If you need a quick response, please use email, Signal, Jami, or Matrix to get in touch with me.
 >  ~ I have these programs open most of the time on my machine or on my mobile.
->  ~ I usually only check my social media accounts twice a week. 
+>  ~ I usually only check my social media accounts twice a week.
 
 * Primary Email: rav3nwing@proton.me
 * Secondary Email: rav3ndust@tutanota.com
@@ -90,10 +91,11 @@ WywTq6Jc
 
 ## * * * * * * * * * *
 
-=> gemini://rav3ndust.xyz rav3ndust.xyz
+=> gemini://rav3ndust.xyz ~ ~ rav3ndust.xyz ~ ~
 => https://neighborli.xyz/@rav3ndust fediverse
 => https://nosta.me/rav3ndust@rav3ndust.xyz nostr
 => https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://x.com/rav3ndust X
 => https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
-=> https://opensource.org/license/mit source code: MIT License
+=> https://opensource.org/license/mit capsule code: MIT License
 => https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
