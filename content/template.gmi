@@ -10,6 +10,10 @@
 
 ## * * * * * * * * * *
 
+=> index.gmi * * back home * *
+
+### title lorem ipsum 
+
 lorem ipsum
 
 ## * * * * * * * * * *
