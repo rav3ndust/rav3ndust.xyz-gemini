@@ -49,6 +49,6 @@ This place is my "second brain", my journal, and my digital garden.
 => https://nosta.me/rav3ndust@rav3ndust.xyz nostr
 => https://bsky.app/profile/rav3ndust.xyz bluesky
 => https://x.com/rav3ndust X
-=> https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
+=> https://github.com/rav3ndust/rav3ndust.xyz-gemini source code to this capsule
 => https://opensource.org/license/mit capsule code: MIT License
 => https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
