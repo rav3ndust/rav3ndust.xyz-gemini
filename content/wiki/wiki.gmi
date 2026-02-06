@@ -1,4 +1,5 @@
 # digital garden
+
 => ../now.gmi now
 => ../blog.gmi blog
 => wiki.gmi wiki
@@ -101,11 +102,12 @@ This Wiki is a "living index" of sorts. Not only will new pages be added to the 
 
 ## * * * * * * * * * *
 
-=> gemini://rav3ndust.xyz rav3ndust.xyz
+=> gemini://rav3ndust.xyz ~ ~ rav3ndust.xyz ~ ~
 => https://neighborli.xyz/@rav3ndust fediverse
 => https://nosta.me/rav3ndust@rav3ndust.xyz nostr
 => https://bsky.app/profile/rav3ndust.xyz bluesky
-=> https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
-=> https://opensource.org/license/mit source code: MIT License
+=> https://x.com/rav3ndust X
+=> https://github.com/rav3ndust/rav3ndust.xyz-gemini source code to this capsule
+=> https://opensource.org/license/mit capsule code: MIT License
 => https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
 
