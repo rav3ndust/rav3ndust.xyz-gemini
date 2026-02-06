@@ -1,0 +1,62 @@
+# recipes
+
+=> ../now.gmi now
+=> ../blog.gmi blog
+=> wiki.gmi wiki
+=> ../recipes.gmi recipes
+=> ../bookmarks.gmi bookmarks
+=> ../contact.gmi contact
+=> ../about.gmi about
+=> ../donate.gmi donate
+
+## * * * * * * * * * *
+
+=> ../index.gmi back home
+
+## carne asada
+
+> another tasty Mexican dish for everyone to enjoy
+
+As I mentioned in our taco salad recipe, I love a good Mexican dish. Carne asada is one of the things I always loved ordering from our local Mexican place, so I wanted to learn how to make it myself, as well. This is the recipe we came up with and have been using for a few years now to make this delicious dish.
+
+### ingredients
+
+* 1 1/2 pounds flank steak or skirt steak
+* 1/4 cup olive oil
+* 1/4 cup fresh lime juice (about 2-3 limes)
+* 4 cloves garlic, minced
+* 1 bell pepper, diced
+* 1 onion, diced
+* 1 teaspoon ground cumin
+* 1 teaspoon chili powder
+* 1 teaspoon smoked paprika
+* 1 teaspoon salt
+* 1/2 teaspoon black pepper
+* 1/4 cup fresh cilantro, chopped (used for garnish)
+* Optional: lime wedges (for serving on the side), rice (your choice), for serving over
+
+### cooking instructions
+
+1. In a bowl, whisk together your lime juice, olive oil, minced garlic, cumin, chili powder, smoked paprika, salt, and black pepper. This will form the basis of your marinade.
+2. Place the skirt or flank steak into a resealable bag, or in a shallow dish. Pour the marinade over the steak, ensuring that it is well coated. Seal the bag or cover the dish, and refrigerate it, letting it sit and marinate for at least one hour, or up to 8 hours if you really want to pack it with flavor.
+3. Preheat your grill to high heat (about 450 degrees Fahrenheit should work).
+4. Remove the steak from the marinade, letting excess marinade drip off. Discard the marinade when done.
+5. Place the steak on the grill, and cook for about 4-6 minutes per side, or until medium rare. You can use a meat thermometer to check the done-ness.
+6. Once cooked, remove the steak from the grill. Let it rest for 5-10 minutes (this allows the juices inside the steak to redistribute). While the meat rests, cook the peppers and onions you diced earlier for 2-3 minutes.
+7. Slice the steak, garnishing it with cilantro. Add the cooked diced peppers and onions over the top of the steak. You can optionally serve all of this on a bed of rice along with a side of lime wedges, if you prefer.
+8. Serve immediately, and enjoy!
+
+### - - - - - - - - - - - - - -
+
+Carne asada can take some prep time, but it is a delicious option that the whole family is sure to enjoy. Carne asada is one of the staple options I choose whenever we go to our local Mexican cafe, and it has become a staple option I like to cook right here in our own kitchen as well!
+
+## = = = = = = = = = =
+
+=> ../index.gmi ~ ~ rav3ndust.xyz ~ ~
+=> https://neighborli.xyz/@rav3ndust fediverse
+=> https://nosta.me/rav3ndust@rav3ndust.xyz nostr
+=> https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://x.com/rav3ndust X
+=> https://github.com/rav3ndust/rav3ndust.xyz-gemini source code to this capsule
+=> https://opensource.org/license/mit capsule code: MIT License
+=> https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
