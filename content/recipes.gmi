@@ -32,7 +32,7 @@ Here are some of our favorite recipes that we've either come up with ourselves o
 
 ## * * * * * * * * * *
 
-=> gemini://rav3ndust.xyz ~ ~ rav3ndust.xyz ~ ~
+=> index.gmi ~ ~ rav3ndust.xyz ~ ~
 => https://neighborli.xyz/@rav3ndust fediverse
 => https://nosta.me/rav3ndust@rav3ndust.xyz nostr
 => https://bsky.app/profile/rav3ndust.xyz bluesky
