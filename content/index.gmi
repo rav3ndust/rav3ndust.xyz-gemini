@@ -1,7 +1,8 @@
 # rav3ndust's oasis of oddities
+
 => now.gmi now
 => blog.gmi blog
-=> wiki.gmi wiki
+=> wiki/wiki.gmi wiki
 => recipes.gmi recipes
 => bookmarks.gmi bookmarks
 => contact.gmi contact
@@ -39,7 +40,7 @@ This place is my "second brain", my journal, and my digital garden.
 ### links of interest
 
 => https://rav3ndust.xyz/wiki/autosynchronicity.html stream and purchase my latest record here
-=> licenses.gmi Here are the Licenses used on this site.
+=> licenses/licenses.gmi Here are the Licenses used on this site.
 
 ## = = = = = = = = = =
 
@@ -47,6 +48,7 @@ This place is my "second brain", my journal, and my digital garden.
 => https://neighborli.xyz/@rav3ndust fediverse
 => https://nosta.me/rav3ndust@rav3ndust.xyz nostr
 => https://bsky.app/profile/rav3ndust.xyz bluesky
+=> https://x.com/rav3ndust X
 => https://github.com/rav3ndust/r3xyz-gemini source code to this capsule
-=> https://opensource.org/license/mit source code: MIT License
+=> https://opensource.org/license/mit capsule code: MIT License
 => https://creativecommons.org/public-domain/cc0/ capsule content: CC0 License
