@@ -278,7 +278,7 @@ Other than that, been trying to beat the summer heat here in Arkansas (finally g
 
 ## * * * * * * * * * *
 
-=> gemini://rav3ndust.xyz rav3ndust.xyz
+=> index.gmi ~ ~ rav3ndust.xyz ~ ~
 => https://neighborli.xyz/@rav3ndust fediverse
 => https://nosta.me/rav3ndust@rav3ndust.xyz nostr
 => https://bsky.app/profile/rav3ndust.xyz bluesky
