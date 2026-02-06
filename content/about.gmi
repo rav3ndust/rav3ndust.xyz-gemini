@@ -2,7 +2,7 @@
 
 => now.gmi now
 => blog.gmi blog
-=> wiki.gmi wiki
+=> wiki/wiki.gmi wiki
 => recipes.gmi recipes
 => bookmarks.gmi bookmarks
 => contact.gmi contact
